@@ -1,4 +1,4 @@
-# Lab 04
+# Lab 05
 
 ## Prepare the Activity Schedule, Gantt Chart, and Network Diagram using MS Project. (Considering the following table of information for CPM).
 
